@@ -10,6 +10,6 @@ Some more lines.
 
 Here's a list:
 
--First
--Second
--Third
+- First
+- Second
+- Third
